@@ -1,0 +1,43 @@
+.Navbar{
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+.Cart{
+	width: 100%;
+	height: 100%;
+	right: 0px;
+	border-radius: 50%;
+}
+.Path{
+	fill: white;
+	padding: 20px;
+}
+.CartContainer{
+	position: fixed;
+	top: 30px;
+	z-index: 9999;
+}
+.CartWrapper{
+	 position: relative;
+	 background: red;
+	 width: 60px;
+	 height:60px;
+	 padding: 10px;
+	 border-radius: 50%;
+	 margin: 10px;
+}
+.ItemInCart{
+	 position: absolute;
+	 font-size: 1.2rem;
+	 font-weight: bolder;
+	 background:yellow;
+	 bottom:0px;
+	 left:0px;
+	 border-radius: 50%;
+}
+@media(max-width: 580px){
+ .CartContainer{
+ 	top: 90%;
+ }
+}

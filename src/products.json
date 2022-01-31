@@ -1,0 +1,137 @@
+[
+  {
+    "id":"1a",
+    "item":"Denim Jeans",
+    "product_img":"https://www.themodestman.com/wp-content/uploads/2019/09/NYC_April_2010_Brock_Eric_Khoi-32-650x880.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Male",
+     "price":2500,
+     "size":["S","M","L","XL","XXL"]
+  },
+  {
+    "id":"1b",
+    "item":"Frock",
+    "product_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRksRu5t8Zaed3stsNk3sbb9JXC0IJ0A-A8Xg&usqp=CAU",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Female",
+     "price":4500,
+     "size":["L","XL","XXL"]
+  },
+  {
+    "id":"1c",
+    "item":"Baby Jeans",
+    "product_img":"https://i.pinimg.com/736x/d6/a2/90/d6a290da1e70ce9ed42a13afbbcd5f69.jpg",
+     "description":"has a more-or-less normal distribution of letters, as opposed to using 'Content here, conte packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lore",
+     "gender":"Male",
+     "price":250,
+     "size":["S","M"]
+  },
+  {
+    "id":"1d",
+    "item":"saree",
+    "product_img":"https://ae01.alicdn.com/kf/HTB1uCAKLFXXXXatXpXXq6xXFXXXv/227409823/HTB1uCAKLFXXXXatXpXXq6xXFXXXv.jpg?smt_ispass_48881",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Female",
+     "price":6500,
+     "size":["L","XL","XXL"]
+  },
+  {
+    "id":"1e",
+    "item":"Denim Jeans",
+    "product_img":"https://cdn.shopify.com/s/files/1/0162/2116/files/33480965_204481437046061_667587867991605248_n.jpg?v=1549965103",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Male",
+     "price":200,
+     "size":["L","XL","XXL"]
+  },
+  {
+    "id":"1f",
+    "item":"Denim Jeans",
+    "product_img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1052052846.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Male",
+     "price":5500,
+     "size":["S","M","XXL"]
+  },
+  {
+    "id":"1g",
+    "item":"Denim Jeans",
+    "product_img":"https://assets.macysassets.com/dyn_img/creativepages/Q8040020_10403_1525385924917.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Male",
+     "price":1500,
+     "size":["S","M","L","XXL"]
+  },
+  {
+    "id":"1h",
+    "item":"Denim Jeans",
+    "product_img":"https://archziner.com/wp-content/uploads/2020/03/black-jeans-t-shirt-cute-middle-school-outfits-white-belt-leather-boots-worn-by-woman-walking-on-sidewalk.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Female",
+     "price":1500,
+     "size":["XXL"]
+  },
+  {
+    "id":"1i",
+    "item":"Denim Jeans",
+    "product_img":"https://cdn.cliqueinc.com/posts/207915/winter-outfit-ideas-for-men-207915-1478647475-promo.700x0c.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Male",
+     "price":9500,
+     "size":["S","M"]
+  },
+  {
+    "id":"1j",
+    "item":"Denim Jeans",
+    "product_img":"https://i.pinimg.com/736x/bc/cd/d3/bccdd3cbc9f3ff220c401011f7d960b1.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Female",
+     "price":200,
+     "size":["S"]
+  },
+  {
+    "id":"1k",
+    "item":"Denim Jeans",
+    "product_img":"https://youraverageguystyle.com/wp-content/uploads/2018/10/Mens-UK-Fashion-Blogger-BooHooMan-Hooded-Sweatshirt-Streets-Walking-Outfit.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Male",
+     "price":200,
+     "size":["S","XXL"]
+  },
+  {
+    "id":"1l",
+    "item":"Denim Jeans",
+    "product_img":"https://nextluxury.com/wp-content/uploads/sophisticated-male-winter-outfits-style-ideas.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Male",
+     "price":2500,
+     "size":["S","XL"]
+  },
+  {
+    "id":"1m",
+    "item":"Denim Jeans",
+    "product_img":"https://www.stylemotivation.com/wp-content/uploads/2019/05/3.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Male",
+     "price":9500,
+     "size":["S","L","XL","XXL"]
+  },
+  {
+    "id":"1n",
+    "item":"Denim Jeans",
+    "product_img":"https://reparasiandroid.com/wp-content/uploads/2019/10/%E2%88%9A19-Catchy-School-Outfit-Ideas-For-Teen-Girl-In-2019-Page-16.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Female",
+     "price":12500,
+     "size":["S","M","XL","XXL"]
+  },
+  {
+    "id":"1o",
+    "item":"Denim Jeans",
+    "product_img":"https://i.pinimg.com/originals/a2/ab/50/a2ab50f0dc5e697a73e3d2a4ad0ec908.jpg",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+     "gender":"Female",
+     "price":32500,
+     "size":["S","M","XL","XXL"]
+  }
+ ]

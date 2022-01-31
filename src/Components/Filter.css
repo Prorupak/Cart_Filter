@@ -1,0 +1,22 @@
+.filter {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  margin: 10px auto;
+}
+.filter_sort {
+  display: flex;
+  align-items: center;
+  font-size: 1.3rem;
+}
+.filter_sort select {
+  margin: 10px 10px;
+  padding: 10px 20px;
+  background: transparent;
+  font-size: 1.2rem;
+}
+@media (max-width: 600px) {
+  .filter_sort {
+    flex-direction: column;
+  }
+}

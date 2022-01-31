@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  width: 100%;
+  min-height: 100vh;
+  background: rgba(0, 0, 0, 0.1);
+}
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.product__container {
+  margin: 0 auto;
+  max-width: fit-content;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
